@@ -1,0 +1,6 @@
+index.js contain scripts to copy data from source table to destination table 
+
+1. Do NPM install
+2. Update ${sourceTable}, ${destinationTable} with source and destination table full name
+3. Update Your ${accessKeyId} and ${secretAccessKey}
+4. run node index.js
